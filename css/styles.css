@@ -1,0 +1,30 @@
+  body {
+    background-color: #d8e3e7;
+  }
+  hr{
+    border-color: #132c33;
+    border-style:dotted none none;
+    border-width: 5px;
+    width: 10%;
+  }
+
+  h1{
+    color: #132c33;
+    font-family: sans-serif;
+  }
+
+  h3{
+    color: #51c4d3;
+    font-family: sans-serif;
+  }
+
+  h2{
+    color: #51c4d3;
+    font-family: sans-serif;
+  }
+
+  p{
+    font-family: sans-serif;
+   }
+
+   
